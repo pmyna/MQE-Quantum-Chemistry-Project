@@ -25,5 +25,4 @@ Developed as part of the *Quantum Engineering Project* masters course.
 
 ## Authors
 Mina Hova (@pmyna)
-
 Ema Dzhuninska (@emadzhuninska)
