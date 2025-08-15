@@ -24,5 +24,5 @@ Developed as part of the *Quantum Engineering Project* masters course.
 - [SciPy](https://scipy.org/)
 
 ## Authors
-Mina Hova (@pmyna)
+Mina Hova (@pmyna)\\
 Ema Dzhuninska (@emadzhuninska)
